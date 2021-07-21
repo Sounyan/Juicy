@@ -1,0 +1,19 @@
+{
+  "name": "Juicy",
+  "version": "1.0.0",
+  "description": "This bot is made by Lovely Cat. Free code and no license!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lovely Cat",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.3",
+    "discord.js-buttons": "^1.0.0",
+    "express": "^4.17.1",
+    "utf-8-validate": "^5.0.5"
+  }
+}
